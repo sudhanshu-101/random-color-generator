@@ -6,7 +6,7 @@ A fun and interactive mini web app that generates a **random RGB color** with ev
 
 ## 🚀 Live Demo
 
-🔗 **Try It Here**: [Random Color Generator (GitHub Pages)](https://sudhanshu-101.github.io/random-color-generator/)
+🔗 **Try It Here**:(https://sudhanshu-101.github.io/random-color-generator/)
 
 ---
 

@@ -28,7 +28,7 @@ A fun and interactive mini web app that generates a **random RGB color** with ev
 
 ## 🕹️ How to Use
 
-1. **Open the App** – Visit the [Live Demo](https://sudhanshu-101.github.io/Random-Color-Generator) or open `index.html` locally.
+1. **Open the App** – Visit the [Live Demo](https://sudhanshu-101.github.io/random-color-generator/) or open `index.html` locally.
 2. **Click the Button** – Press the `Generate Color` button.
 3. **See the Change** – The background of the box changes, and the RGB value appears in the heading.
 4. **Repeat** – Keep clicking to discover beautiful random colors!

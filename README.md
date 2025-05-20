@@ -12,7 +12,7 @@ A fun and interactive mini web app that generates a **random RGB color** with ev
 
 ## 📸 Screenshot
 
-![Random Color Generator Screenshot] https://github.com/sudhanshu-101/random-color-generator/blob/07ade64423f50cca34c7c62536114ee49fcbc245/Screenshort.png
+![Random Color Generator Screenshot](https://github.com/sudhanshu-101/random-color-generator/blob/07ade64423f50cca34c7c62536114ee49fcbc245/Screenshort.png)
 
 ---
 
